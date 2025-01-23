@@ -32,7 +32,7 @@ Alright, so you've got the game installed. Now to install the mods.
 
 1. Download the modlist [here](https://github.com/resdek-lss/a3-guide/blob/a757080ad5d2a18bef8997db74d2400d455e1d87/Arma%203%20Preset%20LSS%20Modlist.html) (click on the "download raw file" button on the right side of the page). This is a .html file that you will use in a moment.
 2. Open the Arma 3 Launcher.
-3. On the top right of the launcher window, click on the arrow next to "Preset". On the bottom of that pane, hit "Import". Find the .html file you just downloaded and select it. The game will now automatically detect those mods.
+3. Switch to the "Mods" tab. On the top right of the launcher window, click on the arrow next to "Preset". On the bottom of that pane, hit "Import". Find the .html file you just downloaded and select it. The game will now automatically detect those mods.
 4. Make sure the mods from the modlist are enabled. You can do this by opening that "Preset" menu and selecting the "LSS Modlist" you just installed.
 5. Whenever you want to play, press "Play (with mods)"!
 
