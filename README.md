@@ -70,6 +70,15 @@ Now, there will be several mods that you'll need to get the hang of for the op. 
 
 And just let me know when you wanna hop in! I'll do my best to help you get stuff up and working.
 
+## JOINING THE SERVER
+
+When it comes time to play on the server, here's how to join:
+
+- On the main menu, go to Multiplayer>Direct Connect
+- Enter the server IP as found in Radmin: `26.198.191.53`.
+- Enter the password: `bingbong123`.
+- Hit join.
+
 ## INTRODUCTION TO THE ZEUS GAMEMODE
 
 The gamemode we will be playing is called Zeus. Essentially, it is a DnD style gamemode where a Game Master controls the mission as it progresses. This allows for a lot of flexibility in contrast to ordinary missions - the scenario will change constantly according to your actions, and no playthrough is the same.
