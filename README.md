@@ -57,3 +57,15 @@ Now, to install the TFAR addon.
 3. To double check it is enabled, go to your TeamSpeak -> Tools -> Options -> Addons -> Plugins -> Task Force Arrowhead Radio. Make sure it says "Enabled".
 
 And you should be good to go!
+
+## HOW TO FAMILIARIZE YOURSELF WITH THE GAME
+
+Arma is a very complex game, so I **strongly, strongly recommend playing a bit before the first op**.
+
+The best way to learn initially is by doing the in-game tutorials/campaigns. To play these, first **launch your game without any mods**. You can do this in the launcher by clicking the arrow next to the "Play" button and selecting "Play without mods and optional DLC" (alternatively, launch the game with only the JSRS soundmod for a better audio experience). On the main menu, go to Singleplayer -> Campaigns -> "Prologue" -> "Reality Check". The game might ask you to start this when launching or when pressing the campaign button as well.
+
+By going through that campaign (which is pretty short, around 45m-1h or so), you should have a basic feel for vanilla Arma.
+
+Now, there will be several mods that you'll need to get the hang of for the op. For this reason, we'll be doing a few training sessions whenever people are available. This will also be a time to make sure everyone can join the server and that everyone's radio mods work properly.
+
+And just let me know when you wanna hop in! I'll do my best to help you get stuff up and working.
