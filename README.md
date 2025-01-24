@@ -22,7 +22,7 @@ There are a few things you might want to change after you install the game. Thes
 
 Radmin VPN is the VPN we use to connect to each other.
 
-1. Install it by downloading here.
+1. Install it by downloading [here](https://www.radmin-vpn.com/).
 2. Once installed join the network `LSS-Network-2`. There is no password, leave it blank.
 3. The main PC you will be connecting to is `LSS-Server-2`. Its IP is `26.198.191.53`.
 
