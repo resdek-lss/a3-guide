@@ -52,7 +52,7 @@ However, there is one additional step for the mod install. The VOIP mod Arma use
 10. To connect to the server, go back to your bookmarks tab and click on the server.
 
 Now, to install the TFAR addon.
-1. Download it from [here](https://drive.google.com/file/d/1Q2VW-lWx-FFAugDFIRjB50OrA42r2q1a/view?usp=sharing).
+1. Download it from [here](https://drive.google.com/file/d/1Q2VW-lWx-FFAugDFIRjB50OrA42r2q1a/view?usp=sharing) (on the top right, the download button).
 2. Make sure TeamSpeak is closed. Simply execute the plugin file, which should install it.
 3. To double check it is enabled, go to your TeamSpeak -> Tools -> Options -> Addons -> Plugins -> Task Force Arrowhead Radio. Make sure it says "Enabled".
 
